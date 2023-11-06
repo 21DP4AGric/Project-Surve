@@ -1,6 +1,8 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>This website does not contain nuts <br></h1>
+    <h2><br>*may contain peanuts</h2>
+    
   </div>
 </template>
 
